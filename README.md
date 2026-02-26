@@ -2,14 +2,7 @@
 An exploration of numerical integration techniques in Python — including the trapezium rule, adaptive refinement, Gaussian integral approximation, and Monte Carlo methods.
 
 This project is part of a Numerical Analysis coursework assignment.
-It explores numerical integration using the trapezium (trapezoidal) rule, gradually developing from a simple fixed-step approach into more adaptive and reusable routines.
-
-The project also extends the integration approach to more complex cases:
-Integrals with infinite limits (e.g. the Gaussian integral)
-Integrals requiring adaptive refinement to meet a specified accuracy
-Applications to real-world physical problems (e.g. the period of a simple pendulum)
-A Monte Carlo integration experiment illustrating probabilistic methods for numerical estimation and simulation.
-
+It explores numerical integration using the trapezium rule, gradually developing from a simple fixed-step approach into more a adaptive routine.
 
 Experiments & Results:
 
