@@ -1,4 +1,4 @@
-# trapezium-rule-and-monte-carlo
+# Trapezium-rule-and-monte-carlo
 An exploration of numerical integration techniques in Python — including the trapezium rule, adaptive refinement, Gaussian integral approximation, and Monte Carlo methods.
 
 This project is part of a Numerical Analysis coursework assignment.
